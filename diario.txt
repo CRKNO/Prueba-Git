@@ -1,0 +1,1 @@
+Este será un diario que llevara registros de los commits que iré haciendo, por cada linea será un commit
