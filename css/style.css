@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    min-width: 100vw;
+
+    background-color: dodgerblue;
+}
+header .header-container{
+    display: grid;
+    gap: .5rem;
+
+    width: 100%;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    color:white
+}
