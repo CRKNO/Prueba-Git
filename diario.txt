@@ -1,2 +1,3 @@
 Este será un diario que llevara registros de los commits que iré haciendo, por cada linea será un commit
 Vamos por la segunda linea, por el momento no he probado git rm ni git reset, son comando que usare mas adelante
+Tercera linea
