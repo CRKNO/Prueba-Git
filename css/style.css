@@ -27,3 +27,12 @@ main h2{
     margin: .3rem;
     text-align: center;
 }
+footer{
+    padding-block: .5rem;
+
+    text-align: center;
+
+    color: white;
+
+    background-color: gray;
+}
