@@ -21,3 +21,12 @@ header .header-container{
 header .header-container p{
     font-size: 1.2em;
 }
+footer{
+    padding-block: .5rem;
+
+    text-align: center;
+
+    color: white;
+
+    background-color: gray;
+}
