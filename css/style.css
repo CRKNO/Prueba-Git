@@ -34,6 +34,8 @@ main > article img{
 .presentaciones{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+
+    text-align: center;
 }
 .presentaciones p{
     padding-block: .4rem;
@@ -47,9 +49,4 @@ footer{
     color: white;
 
     background-color: gray;
-}
-@media(max-width:375px){
-    body{
-        min-width: 375px;
-    }
 }
